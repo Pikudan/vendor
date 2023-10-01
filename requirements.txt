@@ -1,0 +1,14 @@
+Os
+sys
+streamlit
+streamlit-aggrid
+streamlit-searchbox
+seaborn
+pandas
+numpy
+matplotlib
+re
+pymorphy3
+rank_bm25
+typing
+pathlib
